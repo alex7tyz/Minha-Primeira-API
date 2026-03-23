@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "api_produtos",
   "version": "1.0.0",
   "description": "",
@@ -10,7 +11,18 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+=======
+  "scripts": {
+    "start": "node index.js"
+  },
+>>>>>>> ce36cdf71d09bb8f43cfd96e61b1afcf3df47232
   "dependencies": {
     "express": "^5.2.1"
   }
 }
+<<<<<<< HEAD
+=======
+
+
+ 
+>>>>>>> ce36cdf71d09bb8f43cfd96e61b1afcf3df47232
